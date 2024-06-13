@@ -1,6 +1,6 @@
 # HiddenBytes
 
-HiddenBytes is a personal study repository for exploring image steganography techniques and algorithms. Perfect for individuals interested in learning and experimenting with hiding information within images.
+HiddenBytes is a personal repository for exploring image steganography techniques and algorithms, ideal for learning and experimenting with hiding information in images.
 
 Encode:
 

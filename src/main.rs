@@ -52,7 +52,7 @@ fn main() {
     match mode.as_str() {
         "encode" => {
             if args.len() < 5 {
-                println!("Usage: {} encode <input_text_file> <input_image> <output_image>", args[0]);
+                println!("Usage: {} encode <input_image> <input_text_file> <output_image>", args[0]);
                 return;
             }
 
