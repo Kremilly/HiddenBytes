@@ -2,6 +2,13 @@
 name = "HiddenBytes"
 version = "0.1.0"
 edition = "2021"
+author = ["kremilly"]
+categories = ["Encoding", "Graphics"]
+keywords = ["rust", "steganography", "security", "encoder", "image"]
+description = "HiddenBytes is a personal tool for exploring image steganography techniques and algorithms, ideal for experimenting with hiding information in images."
+repository = "https://github.com/Kremilly/HiddenBytes"
+homepage = "https://kremilly.com"
+
 
 [dependencies]
 image = "0.25.1"

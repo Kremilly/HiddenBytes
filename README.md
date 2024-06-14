@@ -1,15 +1,27 @@
 # HiddenBytes
 
-HiddenBytes is a personal repository for exploring image steganography techniques and algorithms, ideal for learning and experimenting with hiding information in images.
+HiddenBytes is a personal tool for exploring image steganography techniques and algorithms, ideal for experimenting with hiding information in images.
+
+## Installation
+
+```shell
+cargo install hiddenbytes
+```
+
+## Usage
 
 Encode:
 
 ```shell
-cargo run -- encode image.jpg message.txt secret.png
+hiddenbytes encode image.jpg message.txt secret.png
 ```
 
 Decode:
 
 ```shell
-cargo run -- decode secret.png
+hiddenbytes decode secret.png
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Kremilly/HiddenBytes/blob/main/LICENSE) file for details.
