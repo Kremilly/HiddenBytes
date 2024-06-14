@@ -1,6 +1,6 @@
 [package]
-name = "hiddenbytes"
-version = "0.1.1"
+name = "HiddenBytes"
+version = "0.1.0"
 license = "MIT"
 edition = "2021"
 author = ["kremilly"]
