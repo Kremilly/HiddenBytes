@@ -1,11 +1,11 @@
-# HiddenBytes
+# HiddenBytes ![](https://img.shields.io/crates/v/hiddenbytes?style=flat-square&logo=rust) ![](https://img.shields.io/crates/l/hiddenbytes?style=flat-square)
 
 HiddenBytes is a personal tool for exploring image steganography techniques and algorithms, ideal for experimenting with hiding information in images.
 
 ## Installation
 
 ```shell
-cargo install hiddenbytes
+cargo install 
 ```
 
 ## Usage
