@@ -5,7 +5,7 @@ HiddenBytes is a personal tool for exploring image steganography techniques and 
 ## Installation
 
 ```shell
-cargo install 
+cargo install hiddenbytes
 ```
 
 ## Usage
